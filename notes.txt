@@ -1,0 +1,11 @@
+1. Learn basic JavaScript:
+   - Variables, functions, events
+   - DOM manipulation
+
+2. Learn CSS styling:
+   - Colors, layouts, fonts
+   - Responsive design
+
+3. Learn HTML structure:
+   - Headings, paragraphs, lists
+   - Forms and inputs
