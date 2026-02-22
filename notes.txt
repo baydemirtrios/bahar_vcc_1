@@ -1,4 +1,5 @@
-1. Learn basic JavaScript:
+1.learnig the VCC
+ Learn basic JavaScript:
    - Variables, functions, events
    - DOM manipulation
 
@@ -8,4 +9,4 @@
 
 3. Learn HTML structure:
    - Headings, paragraphs, lists
-   - Forms and inputs
+   - Forms and inputs "Hello Life"
